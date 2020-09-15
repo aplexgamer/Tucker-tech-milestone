@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <body>
+      <h1><center>Tech Milestones</center></h1>
+      <p> In the 1970s John Blankenbaker created the first PC unit. The Kenbak-1 cost $750 and used switches rather than a keyboard. Its memory could hold only 256 characters. Customers only ordered 40 units before Blankenbaker discontinued it. Unlike modern PCs, his device didn’t have a microprocessor. The Micral N became the first personal computer to incorporate the microprocessor. This $1,700 French unit went into production in 1973, the year when Kenbak went out of business.
+</p>
+      <div>
+        <p>
+          Xerox introduced the Alto computer system in 1973. This machine offered a graphical user interface with many of the features that remain common in today’s operating systems. It included stuff like windows, pointers, menus and icons. The Xerox Star and Apple Lisa also had GUIs, but they were quite expensive and didn’t attract many buyers. In 1984, Apple’s Macintosh became the first popular computer with a graphical interface. Digital Research and Microsoft introduced similar software during the following year. By the early 1990s, most personal computers came with GUIs rather than relying on text-based command lines.
+          <div>
+            <p>
+              In 1990, an english computer scientist, Tim Berners-Lee, created the Web. He introduced URLs, the hypertext transfer protocol and the online programming language known as HTML. People continue to use these technologies to operate and access millions of websites. During the same year, Berners-Lee developed the original Web browser and established the world’s first website. His contributions made the Internet far more useful for people without extensive technical training. He still advocates for universal Web programming standards and a decentralized Internet without censorship.
+
+            </p>
+          </div>
+        </p>
+      </div>
+    </body>
+  </head>
+</html>
